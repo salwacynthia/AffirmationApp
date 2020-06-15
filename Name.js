@@ -16,7 +16,7 @@ const name = ["You have power over your mind—not outside events. Realize this,
               " My confidence is superb! My great job arrives in my life today!",
               " Right now, my great job is looking for me!",
               "I am ready to work! I am ready to contribute! I am ready to shine high!",
-              " Every NO for the wrong job gets me to closer to the YES that is perfect for me!",
+              " Every NO for the wrong job gets me closer to the 'YES' that is perfect for me!",
               "I am attracting the right work into my life.",
               " It is so easy and fun to find a good job.",
               "I have something special to offer the world."              
