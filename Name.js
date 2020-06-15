@@ -28,7 +28,7 @@ console.log(name);
 const background = ["im/2.png","im/2.png","im/3.png","im/4.png","im/6.png","im/10.png",
                     "im/12.png","im/15.png","im/16.png","im/17.png",
                   "im/18.jpg","im/14.jpg",,
-                  "im/7.jpg","im/4.jpg"];
+                  "im/7.jpg","im/4.jpg", "im/19.jpg","im/20.jpg"];
 
 const getRandomName = ()=>
   `${name[Math.floor(Math.random()* name.length)]}`;
